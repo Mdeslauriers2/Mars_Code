@@ -19,7 +19,6 @@ To use this project, follow these steps:
   ```
 - Install dependencies:
 
-  ```
   pip install splinter
   pip install beautifulsoup4
   pip install matplotlib
