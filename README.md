@@ -9,9 +9,8 @@ Scrape various types of information, such as HTML tables and recurring elements 
 **Table of Contents:**
 
 1. Installation
-2. Usage
-3. Contributing
-4. License
+2. Contributing
+
 
 **1. Installation:**
 
@@ -27,13 +26,7 @@ To use this project, follow these steps:
   pip install pandas
   ```
 
-- Additional steps...
-
-**2. Usage:**
-
-- Detailed instructions on how to use the project. Include examples and command line options if applicable.
-
-**3. Contributing:**
+**2. Contributing:**
 
 We welcome contributions! To contribute to this project:
 
